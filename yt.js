@@ -19,7 +19,7 @@
 				annotations: false,
 				autoplay: false,
 				chainVideos: true,
-				browsePlaylists: false,
+				browsePlaylists: true,
 				playerTheme: 'light',
 				listTheme: 'dark',
 				responsive: false,
