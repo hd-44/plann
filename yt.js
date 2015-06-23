@@ -20,7 +20,7 @@
 				autoplay: false,
 				chainVideos: true,
 				browsePlaylists: false,
-				playerTheme: 'dark',
+				playerTheme: 'light',
 				listTheme: 'dark',
 				responsive: false,
 				playId:'',
